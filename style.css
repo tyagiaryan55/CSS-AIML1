@@ -53,3 +53,53 @@ h4{
     color:blueviolet;
     text-align:center;
 }
+
+.ok{
+    width: 500px;
+    height: 200px;
+    border: 3px solid black;
+    text-align: center;
+}
+
+h1{
+    color:black;
+    background-color:cyan;
+
+}
+h2{
+    color:black
+}
+.oo{
+    color:green;
+   
+}
+u{
+    border: 2px solid black;
+}
+.card1{
+    width:200px;
+    height:400px;
+   background-color: yellow;
+    text-align:center;
+    margin:20px;
+    padding:10px;
+}
+.card2{
+    width:200px;
+    height:400px;
+   background-color: pink;
+    text-align:center;
+    margin:20px;
+    padding:10px;
+}
+.card3{
+    width:200px;
+    height:400px;
+   background-color: lightblue;
+    text-align:center;
+    margin:20px;
+    padding:10px;
+}
+div{
+    display:inline-block;
+}

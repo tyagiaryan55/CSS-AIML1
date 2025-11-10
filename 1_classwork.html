@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            margin: 20px;
+            border: 2px solid black;
+            padding: 10px;
+            width: 750px;
+        }
+        h1 {
+            font-size: 36px;
+            font-weight: bold;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        footer {
+            clear: both;
+            background-color: lightgray;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>clear (Footer below floated content)</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyzcIzCo6JWQkKyuRY8T6R6_Dl_NfNd0pLQ&s" alt="image" style="float: left; width: 300px; height: 200px; margin: 10px;">
+    <p>This paragraph wraps around the floated image.</p>
+    <footer>
+        <p>This is the footer section, forced below the floated image usiing clear both.</p>
+    </footer>
+</body>
+</html>
+
