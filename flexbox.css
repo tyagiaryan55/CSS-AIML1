@@ -6,12 +6,12 @@
     border: 1px solid black;
      display: flex;
     flex-direction: row;
-    flex-wrap: nowrap; */
-    /* align-items: center;
-    justify-content: space-between; */
+    flex-wrap: nowrap; 
+    align-items: center;
+    justify-content: space-between;
     gap: 20px;
     align-items: flex-start;
-} */
+} 
 .item{
     height: 200px;
     width: 200px; 

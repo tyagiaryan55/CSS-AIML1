@@ -35,3 +35,8 @@
 .item4{ 
     grid-area: footer;
 } */
+ @media(max-width:1000px){
+    body{
+        background-color: pink;
+    }
+ }
