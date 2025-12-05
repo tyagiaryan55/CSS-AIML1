@@ -3,9 +3,9 @@
     width:1000px;
     background-color:aqua;
     border:1px solid black;
-    display: grid;
+    /* display: grid;
     grid-template-columns: repeat(4,100px);
-    grid-template-rows: repeat(3,100px); 
+    grid-template-rows: repeat(3,100px);  */
     grid-template-areas: "header header header header" "main main . sidebar" "footer footer footer footer";
       gap: 10px;
     justify-items: stretch;
