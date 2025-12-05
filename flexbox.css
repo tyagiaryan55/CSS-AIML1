@@ -13,10 +13,10 @@
     align-items: flex-start;
 } */
 .item{
-    /* height: 200px;
-    width: 200px; */
-    background-color: yellow;
-    border: 1px solid black;
+    height: 200px;
+    width: 200px; 
+    /* background-color: yellow;
+    border: 1px solid black; */
 }
 .item2{
     order: -1;
