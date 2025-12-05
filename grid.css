@@ -9,8 +9,8 @@
     grid-template-areas: "header header header header" "main main . sidebar" "footer footer footer footer";
     gap: 10px;
     justify-items: stretch;
-    justify-content: center;
-    align-content: center;
+    /* justify-content: center;
+    align-content: center; */
 }
 
 .item{
