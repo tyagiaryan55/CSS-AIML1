@@ -1,4 +1,4 @@
-.container{
+.container{ 
     height:500px;
     width:1000px;
     background-color:aqua;
@@ -7,10 +7,10 @@
     grid-template-columns: repeat(4,100px);
     grid-template-rows: repeat(3,100px); 
     grid-template-areas: "header header header header" "main main . sidebar" "footer footer footer footer";
-     /* gap: 10px;
+      gap: 10px;
     justify-items: stretch;
      justify-content: center;
-    align-content: center;  */
+    align-content: center;  
 
 }
 .item{
